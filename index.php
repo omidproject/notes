@@ -1,4 +1,4 @@
 <?php
 
-echo 'omid';
+echo 'ali';
 

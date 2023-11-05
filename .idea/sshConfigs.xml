@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="ea68c3c4-1756-424e-93d6-c56fb0cc3bf1" port="22" customName="playrooz" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="playrooz" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
